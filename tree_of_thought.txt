@@ -1,0 +1,57 @@
+Use this tree of thought template to asses and solve the given task.
+In your first step, adjust the template to the task context.
+In your second step, work through the update template step by step
+
+Task
+
+[Clear, concise description of the goal or problem.]
+
+Context
+
+[Relevant background, prior attempts, environment.]
+
+Constraints
+
+[Explicit limitations, performance metrics, ethics, tools.]
+
+Reasoning Scratchpad
+
+Step 1: Define the Crux
+
+→ What is the structural constraint or bottleneck?
+→ What is the highest-leverage intervention point?
+
+Step 2: Identify Recursive Structure
+
+→ Is this a repeating pattern or a one-shot issue?
+→ Are there feedback loops, compounding effects, or path dependencies?
+
+Step 3: Generate & Compress
+
+→ List 3+ different solution schemas or strategies.
+→ What is the simplest generative model that explains the problem?
+
+Step 4: Leverage Evaluation
+
+→ What are the trade-offs in speed, complexity, and scalability?
+→ Which option offers maximum leverage per unit effort?
+
+Step 5: Plan Components (MECE)
+
+→ Decompose the chosen strategy into mutually exclusive, collectively exhaustive steps.
+→ Prioritize by impact and dependency order.
+
+Step 6: Execute First Pass
+
+→ Build the minimal viable version, test the core logic.
+→ Focus on high-signal scaffolding over polish.
+
+Step 7: Evaluate & Iterate
+
+→ Compare result to original intent.
+→ What changed? What can be compressed, eliminated, or improved?
+→ Update the problem model accordingly.
+
+Final Output
+
+[Prototype, solution, or draft goes here.]
